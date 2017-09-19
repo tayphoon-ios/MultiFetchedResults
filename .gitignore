@@ -1,0 +1,6 @@
+Archives/
+Pods/
+Podfile.lock
+/Build/
+report.xml
+README.md
